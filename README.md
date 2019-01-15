@@ -1,0 +1,2 @@
+# Hotel-App-Spring-Boot
+a hotel chain that is building its reservation system and wants to provide its clients with an application to search for and book rooms. The owners of the hotel need to define various business policies to calculate booking rates, such as early booking discounts or last-minute offers. They may need to modify these policies to adapt to different travel seasons and exceptional events, for example. They may also want to add more policies in the future on special offers or loyalty programs.
